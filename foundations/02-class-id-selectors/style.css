@@ -1,0 +1,17 @@
+.odd {
+    background-color: rgb(253, 174, 187);
+    font-family: verdana, "deja vu", sans-serif;
+}
+ 
+.twofour {
+    font-size: 24px;
+}
+
+#btext {
+    color: blue;
+    font-size: 36px;
+}
+
+#lgreen {
+    background-color: lightgreen;
+}
